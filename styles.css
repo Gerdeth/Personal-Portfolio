@@ -1,11 +1,9 @@
 body{
     font-family:'poppins',sans-serif;
     font-size: 1.8 rem;
-    color: white;
+    color:black;
 }
-section{
-    background-color:#272525 ;
-}
+
 #navbar{
     display:flex;
     justify-content: flex-end;
@@ -15,18 +13,18 @@ section{
     width:100%;
     background:red;
     color:white;
+    margin-bottom: 200px;
   
 }
 #welcome-section{
-    display:flex;
-    justify-content: center;
+    text-align: center;
     height:100vh;
     width:100%;
-   
 }
-h1{
-    display:block;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+img{
+    height:200px;
+    width: 200px;
+}
+#projects{
     text-align: center;
 }
