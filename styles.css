@@ -12,9 +12,6 @@ body{
     left:0;
     width:100%;
     background:red;
-    color:white;
-    margin-bottom: 200px;
-  
 }
 #welcome-section{
     text-align: center;
@@ -27,4 +24,9 @@ img{
 }
 #projects{
     text-align: center;
+    
+}
+.project-tile{
+    margin: auto;
+    display: block;
 }
