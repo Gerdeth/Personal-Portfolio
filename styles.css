@@ -14,9 +14,13 @@ body{
     background:red;
 }
 #welcome-section{
+   
     text-align: center;
     height:100vh;
     width:100%;
+}
+h1{
+    padding-top:25%;
 }
 img{
     height:200px;
@@ -29,6 +33,10 @@ img{
 .project-tile{
     margin: auto;
     display: block;
+}
+#contact{
+    padding-top: 20%;
+    text-align: center;
 }
 @media only screen and (max-width: 600px) {
     body {
