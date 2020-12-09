@@ -39,8 +39,7 @@ span{
 }
 .project-tile{
     padding-top:10%;
-    margin: auto;
-    display: block;
+    display: inline-block;
 }
 #contact{
     padding-top: 10%;
